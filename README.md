@@ -2,7 +2,7 @@
 ## Description
 ### In this guided project, I used the pretrained google text classification AI, "Bert", and a recurrent neural network to analyze whether a tweet was positive or negative. In our final result, we are able to detect the sentiment of various messages with almost a 97% accuracy.
 ## Technologies Used
-### -Java
+### -Python (keras, tensorflow, matplotlib)
 ### -recurrent neural network
 ### -Natural Language Processing in AI
 ## What I learned
